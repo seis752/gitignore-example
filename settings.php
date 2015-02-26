@@ -4,7 +4,7 @@
 	$database_db = "seis752";
 	$username_db = "seis752student";
 	$password_db = "gradsoftware";
-	
+	 
 	$con = mysql_connect($hostname_db,$username_db,$password_db); 
 		if (!$con)
 		  {
